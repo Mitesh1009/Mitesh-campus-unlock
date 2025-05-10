@@ -12,6 +12,8 @@ Here's how to set up a basic `README.md` file **locally** for a **Next.js** proj
 
    ```bash
    npm install
+   #or
+   npm install deep --legacy-peer-deps
    # or
    yarn install
    ```
